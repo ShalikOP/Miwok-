@@ -24,10 +24,8 @@ public class ColoursActivity extends AppCompatActivity {
 
 
         strColours.add(new Word("red", "weṭeṭṭi", R.drawable.color_red, R.raw.color_red));
-        strColours.add(new Word("mustard yellow", "chiwiiṭә", R.drawable.color_mustard_yellow,
-                R.raw.color_mustard_yellow));
-        strColours.add(new Word("dusty yellow", "ṭopiisә", R.drawable.color_dusty_yellow,
-                R.raw.color_dusty_yellow));
+        strColours.add(new Word("mustard yellow", "chiwiiṭә", R.drawable.color_mustard_yellow, R.raw.color_mustard_yellow));
+        strColours.add(new Word("dusty yellow", "ṭopiisә", R.drawable.color_dusty_yellow, R.raw.color_dusty_yellow));
         strColours.add(new Word("green", "chokokki", R.drawable.color_green, R.raw.color_green));
         strColours.add(new Word("brown", "ṭakaakki", R.drawable.color_brown, R.raw.color_brown));
         strColours.add(new Word("gray", "ṭopoppi", R.drawable.color_gray, R.raw.color_gray));
